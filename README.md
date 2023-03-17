@@ -1,0 +1,2 @@
+# EditREADME
+SchoolMate Instructions
