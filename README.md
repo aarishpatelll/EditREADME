@@ -7,4 +7,18 @@ Marvin Ridge High School
 
 Waxhaw, NC
 
-SchoolMate is a mobile application made for iOS devices. To login into the app, users must first fil out information on the "Register" page or authenticate using Google. Once in the app, users can view current posts by other students, profile post's, attendance page, fundraisers, calendar, and job listings. To furthur enhance our app, we have also added a "store" where users can purchase clothes from their schools. We also have a section on our app titled "More" which consists of Settings and Report Bugs. In the Settings page, you can enter in your personal information, switch dark mode on or off, change password, subscribe to updates, and view the following documents: Terms of Service, Privacy Policy, and About Us. ***************in the calendar or on the event pages. From bath locations there are also options to sign up for upcoming events and meetings. On the "About FBLA" page there are links to state and national websites as well as a O and A section. To connect with their chapter, users have access to links to social media, as well as a place to email their director directly from the application. Lists of members in the users chapter, as well as local, state, and national officer teams are also provided if the user wishes to contact them instead Officers and directors may interact with the application by logging on to the website, fblamanager.me, where they can create and post new events and messages, as well as track users and meeting attendance. SchoolMate is currently error free, however a bug reporting system is implemented if the user later discovers an issue.
+SchoolMate is a mobile application made for iOS devices. To login into the app, users must first fill out their information on the "Register" page or authenticate using Google. Once in the app, users can view the home page, profile page, attendance page, fundraisers page, calendar page, and job listings page. On the home page, you can view other students' posts to like and see what is happening at school. On the profile page, you can view all your posts, delete those posts, log out of your account, or delete your account. On the attendance page, you can submit your daily attendance for that day. The fundraiser's page consists of different types of fundraisers going around at that given time. The calendar page is made to show a calendar with all the upcoming events integrated into it to enhance the user’s experience. The jobs listing page was created to help high school students find different jobs nearby that were currently hiring. This page will show each position available and if clicked, will show a description of that job and the pay of the job. To further enhance our app, we have also added a "store" where users can purchase clothes from their schools. We also have a section on our app titled "More" which consists of Settings and Report Bugs. On the Settings page, you can enter your personal information, switch dark mode on or off, change your password, subscribe to updates, and view the following documents: Terms of Service, Privacy Policy, and About Us. On the "About Us" page in Settings, there is an email and a phone number included to directly communicate with us about any questions or concerns. SchoolMate is currently error-free, however, a bug-reporting system is implemented if the user later discovers an issue.
+
+## Features
+* Designed for iOS devices
+* Light/dark mode toggle
+* Like Users posts
+* Change your password
+* Upload posts
+* Delete posts
+* Able to report bugs
+* Subscribe to Updates
+* Options to login with email and password or through Google if user is already a member, or create and account
+* A calendar showing upcoming events
+* A list of jobs that are currently hiring
+* Links to About Us page, Terms and Conditions, and Privacy Policy
