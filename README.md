@@ -22,3 +22,4 @@ SchoolMate is a mobile application made for iOS devices. To login into the app, 
 * A calendar showing upcoming events
 * A list of jobs that are currently hiring
 * Links to About Us page, Terms and Conditions, and Privacy Policy
+
