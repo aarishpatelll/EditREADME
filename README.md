@@ -3,18 +3,12 @@
 #### The main purpose of our SchoolMate is to provide parents with an easy and convenient way to stay updated about their children's performance and progress at school.
 
 ## Table of Contents
+
 - [Introduction](#intro)
 - [Features](#fea)
 - [Resources Used](#ru)
 - [Software and Services Used](#ssu)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
-- [Introduction](#intro)
+- [License](#li)
 
 ## Introduction
 By: Rayan Tahira, Nikhil Vaddey, Aarish Patel
@@ -54,12 +48,33 @@ A simple editor that allows you to quickly add and customize all the sections yo
 GitHub - https://github.com/
 > GitHub is an online source hosting service based around the Git version control system. We utilized GitHub to store source code revisions during this project
 
-Google Cloud databases - 
-> dfkdjf
+Google Cloud databases - https://firebase.google.com/
+> Provides detailed documentation and cross-platform SDKs to help you build and ship apps on iOS
 
 Xcode - https://apps.apple.com/us/app/xcode/id497799835
 > Apple's integrated development environment for macOS, used to develop our application for iOS.
 
+## License
 
+MIT License
 
+Copyright (c) [2023] [SchoolMate]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
