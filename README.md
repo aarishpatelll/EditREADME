@@ -8,7 +8,7 @@
 - [Features](#fea)
 - [Resources Used](#ru)
 - [Software and Services Used](#ssu)
-- [License](#li)
+- [License](#lice)
 
 ## Introduction
 By: Rayan Tahira, Nikhil Vaddey, Aarish Patel
