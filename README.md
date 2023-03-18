@@ -1,2 +1,2 @@
-# EditREADME
-SchoolMate Instructions
+# SchoolMate
+Ins
