@@ -79,6 +79,8 @@ How to use ADA Compliance in an app - https://www.accessibilitychecker.org/blog/
 
 A simple editor that allows you to quickly add and customize all the sections you need for your project's readme - https://readme.so/
 
+Serves as a central hub for Android developers, providing them with the necessary resources and information to create robust, efficient, and innovative applications for the Android platform. - https://developer.android.com/
+
 ## Software and Services Used
 GitHub - https://github.com/
 > GitHub is an online source hosting service based around the Git version control system. We utilized GitHub to store source code revisions during this project
@@ -89,8 +91,8 @@ Google Cloud databases - https://firebase.google.com/
 Xcode - https://apps.apple.com/us/app/xcode/id497799835
 > Apple's integrated development environment for macOS, used to develop our application for iOS.
 
-Android Developers - https://developer.android.com/
-> The official documentation and resource hub for Android developers.
+Android Studio - https://developer.android.com/studio
+> Provides developers with the necessary tools, documentation, and resources to create, test, and deploy high-quality Android applications using Android Studio.
 
 ## Feedback and Support
 We value your feedback and are committed to continuously improving the SchoolMate application
