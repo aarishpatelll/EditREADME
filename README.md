@@ -73,6 +73,10 @@ Photos for Jobs from Shutterstock - https://www.shutterstock.com/
 
 Photos for Fundraisers from Google - https://images.google.com/
 
+What is ADA Compliance? - https://www.testpros.com/articles/ada-website-compliance/
+
+How to use ADA Compliance in an app - https://www.accessibilitychecker.org/blog/mobile-apps-ada-compliance/
+
 A simple editor that allows you to quickly add and customize all the sections you need for your project's readme - https://readme.so/
 
 ## Software and Services Used
@@ -80,10 +84,13 @@ GitHub - https://github.com/
 > GitHub is an online source hosting service based around the Git version control system. We utilized GitHub to store source code revisions during this project
 
 Google Cloud databases - https://firebase.google.com/
-> Provides detailed documentation and cross-platform SDKs to help you build and ship apps on iOS
+> The website serves as a platform for developers to access and leverage Firebase's suite of tools and services, which simplify and enhance the development, deployment, and management of mobile and web applications. Provide developers with information, resources, and access to Firebase's suite of tools and services. These tools and services include: Real-time Database, Authentication, Cloud Firestore, Storage, Hosting, Cloud Functions, Analytics, Cloud Messaging, Crash Reporting, Performance Monitoring
 
 Xcode - https://apps.apple.com/us/app/xcode/id497799835
 > Apple's integrated development environment for macOS, used to develop our application for iOS.
+
+Android Developers - https://developer.android.com/
+> The official documentation and resource hub for Android developers.
 
 ## Feedback and Support
 We value your feedback and are committed to continuously improving the SchoolMate application
