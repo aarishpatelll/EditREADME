@@ -1,4 +1,4 @@
-![1](https://user-images.githubusercontent.com/118705076/226793495-786c1028-3499-4cda-8dbf-513ed2ff83f2.png)
+![1](https://github.com/aarishpatelll/EditREADME/assets/118705076/f7c11abe-700a-4efa-b206-fa2c29af17e1)
 
 # SchoolMate README
 #### The main purpose of our SchoolMate is to provide parents with an easy and convenient way to stay updated about their children's performance and progress at school.
