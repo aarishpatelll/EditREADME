@@ -10,6 +10,7 @@
 - [Resources Used](#ru)
 - [Software and Services Used](#ssu)
 - [License](#lice)
+- [Feedback and Support](#fas)
 
 ## Introduction
 By: Rayan Tahira, Nikhil Vaddey, Aarish Patel
@@ -83,6 +84,9 @@ Google Cloud databases - https://firebase.google.com/
 
 Xcode - https://apps.apple.com/us/app/xcode/id497799835
 > Apple's integrated development environment for macOS, used to develop our application for iOS.
+
+## Feedback and Support
+We value your feedback and are committed to continuously improving the SchoolMate application
 
 ## License
 
