@@ -64,6 +64,12 @@ SchoolMate is a mobile application made for iOS devices. To login into the app, 
 #### Feedback and Support:
 - Provide feedback on the application, report any issues or difficulties, and access support resources to address your concerns.
 
+#### Chat Room:
+- A place where aspiring athletes can interact with teammates, coaches, and fellow sport enthusiasts, fostering an inclusive environment to discuss their desired sport, seek guidance, and build strong bonds within the team.
+
+#### Smart Lunch:
+- Send nearly insteanous location updates with enhanced user functionality to our secure firebase database. 
+
 ## Resources Used
 Menu Icons from Icons8 - https://icons8.com/
 
