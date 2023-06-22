@@ -1,9 +1,9 @@
 ![1](https://github.com/aarishpatelll/EditREADME/assets/118705076/f7c11abe-700a-4efa-b206-fa2c29af17e1)
 
-# SchoolMate README
+# SchoolMate README 
 #### The main purpose of our SchoolMate is to provide parents with an easy and convenient way to stay updated about their children's performance and progress at school.
 
-## Table of Contents
+## Table of Contents 📄
 
 - [Introduction](#intro)
 - [Features](#fea)
@@ -12,20 +12,24 @@
 - [License](#lice)
 - [Feedback and Support](#fas)
 
-## Introduction
+## Introduction 👋 
 By: Rayan Tahira, Nikhil Vaddey, Aarish Patel
 
 Marvin Ridge High School
 
 Waxhaw, NC
 
-SchoolMate is a mobile application made for iOS devices. To login into the app, users must first fill out their information on the "Register" page or authenticate using Google. Once in the app, users can view the home page, profile page, attendance page, fundraisers page, calendar page, and job listings page. On the home page, you can view other students' posts to like and see what is happening at school. On the profile page, you can view all your posts, delete those posts, log out of your account, or delete your account. On the attendance page, you can submit your daily attendance for that day. The fundraiser's page consists of different types of fundraisers going around at that given time. The calendar page is made to show a calendar with all the upcoming events integrated into it to enhance the user’s experience. The jobs listing page was created to help high school students find different jobs nearby that were currently hiring. This page will show each position available and if clicked, will show a description of that job and the pay of the job. To further enhance our app, we have also added a "store" where users can purchase clothes from their schools. We also have a section on our app titled "More" which consists of Settings and Report Bugs. On the Settings page, you can enter your personal information, switch dark mode on or off, change your password, subscribe to updates, and view the following documents: Terms of Service, Privacy Policy, and About Us. On the "About Us" page in Settings, there is an email and a phone number included to directly communicate with us about any questions or concerns. SchoolMate is currently error-free, however, a bug-reporting system is implemented if the user later discovers an issue.
+SchoolMate is a mobile application made for iOS devices. To login into the app, users must first fill out their information on the "Register" page or authenticate using Google. Once in the app, users can view the home page, profile page, attendance page, fundraisers page, calendar page, and job listings page. On the home page, you can view other students' posts to like and see what is happening at school. On the profile page, you can view all your posts, delete those posts, log out of your account, or delete your account. On the attendance page, you can submit your daily attendance for that day. The fundraiser's page consists of different types of fundraisers going around at that given time. The calendar page is made to show a calendar with all the upcoming events integrated into it to enhance the user’s experience. The jobs listing page was created to help high school students find different jobs nearby that were currently hiring. This page will show each position available and if clicked, will show a description of that job and the pay of the job. To further enhance our app, we have also added a "store" where users can purchase clothes from their schools. We also have a section on our app titled "More" which consists of Settings and Report Bugs. On the Settings page, you can enter your personal information, switch dark mode on or off, change your password, subscribe to updates, and view the following documents: Terms of Service, Privacy Policy, and About Us. On the "About Us" page in Settings, there is an email and a phone number included to 
+directly communicate with us about any questions or concerns. SchoolMate is currently error-free, however, a bug-reporting system is implemented if the user later discovers an issue.
+
+## Build Instructions 🔧
+This mobile application was developed in SwiftUI using Xcode 14. Contained within the competition submission is a folder named "FBLAFinalApp2023". It contains all the necessary components and resources related to the mobile application's implementation and functionality. To successfully build and run the mobile application, it is essential to meet the Xcode 14 requirements. Xcode 14 beta necessitates a Mac computer running macOS Monterey 12.4 or a later version. Therefore, ensure that your Mac operating system is updated accordingly. To execute a debug version of the application, you will need to have Xcode installed on your Mac. Xcode provides the necessary development tools and resources for building and running iOS applications. Additionally, depending on the target platform, you have two options: FBLANavigator.Android: To run the Android version of the application, you can either use an Android emulator within Xcode or connect an Android mobile device to your Mac. If you opt for the latter, make sure that the Android device has Developer Options enabled, and USB debugging turned on. This allows the device to establish a connection with Xcode and run the debug version of the Android project. FBLANavigator.iOS: To run the iOS version of the application, you can utilize the iOS simulator within Xcode. The simulator provides a virtual environment for testing and debugging iOS apps without requiring a physical iOS device.
 
 ## Features
-#### Designed for iOS and android devices: 
+#### Designed for iOS and android devices: 🍎 x 🤖
 - SchoolMate mobile application is designed and developed to be compatible with both Apple's iOS operating system (used on iPhones and iPads) and Android operating system (used on various smartphone and tablet devices). The application is built using technologies and frameworks that allow it to run smoothly on devices running either iOS or Android.
 
-#### Light/dark mode toggle:
+#### Light/dark mode toggle: 
 - The SchoolMate mobile application offers a convenient Light/Dark mode toggle feature that allows users to switch between different visual themes based on their preferences and lighting conditions. This feature enhances the user experience by providing a personalized and comfortable interface.
 
 #### Like Users posts:
@@ -70,7 +74,7 @@ SchoolMate is a mobile application made for iOS devices. To login into the app, 
 #### Smart Lunch:
 - Send nearly insteanous location updates with enhanced user functionality to our secure firebase database. 
 
-## Resources Used
+## Resources Used 📚
 Menu Icons from Icons8 - https://icons8.com/
 
 Background and Sample Post Images from Pexels - https://www.pexels.com/
@@ -87,7 +91,7 @@ A simple editor that allows you to quickly add and customize all the sections yo
 
 Serves as a central hub for Android developers, providing them with the necessary resources and information to create robust, efficient, and innovative applications for the Android platform. - https://developer.android.com/
 
-## Software and Services Used
+## Software and Services Used 💻
 GitHub - https://github.com/
 > GitHub is an online source hosting service based around the Git version control system. We utilized GitHub to store source code revisions during this project
 
@@ -100,7 +104,7 @@ Xcode - https://apps.apple.com/us/app/xcode/id497799835
 Android Studio - https://developer.android.com/studio
 > Provides developers with the necessary tools, documentation, and resources to create, test, and deploy high-quality Android applications using Android Studio.
 
-## Feedback and Support
+## Feedback and Support 👥
 We value your feedback and are committed to continuously improving the SchoolMate application
 
 ## License
