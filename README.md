@@ -38,7 +38,7 @@ This mobile application was developed in SwiftUI using Xcode 14. Contained withi
 #### Change your password: 🔒
 - The SchoolMate mobile application provides users with the ability to change their account password, ensuring the security and privacy of their personal information. This feature allows users to update their password regularly or in case of any security concerns, promoting a safe and protected user experience.
 
-#### Upload posts:
+#### Upload posts: 📤
 - The SchoolMate mobile application allows users to create and upload posts, enabling them to share information, insights, and updates with the school community. This feature promotes communication and collaboration among students, teachers, and staff, fostering a dynamic and engaging environment.
 
 #### Delete posts: 🗑️
